@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhichIsBigger</string>
+    <string name="title_text">Which is the biggest?</string>
+    <string name="directions_text">Click the largest number</string>
+</resources>
